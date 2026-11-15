@@ -1,0 +1,26 @@
+# MPLAB X build outputs
+build/
+dist/
+debug/
+.generated_files/
+*.o
+*.o.d
+*.elf
+*.hex
+*.map
+
+# MPLAB X machine-specific files (regenerated on open)
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Makefile-genesis.properties
+nbproject/Package-*.bash
+*/nbproject/private/
+*/nbproject/Makefile-*.mk
+*/nbproject/Makefile-genesis.properties
+*/nbproject/Package-*.bash
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
