@@ -15,7 +15,8 @@ a 7-segment display, an RGB LED and a buzzer.
 
 ## Demo
 
-[▶ Watch the demo video](docs/demo.mp4)
+https://github.com/user-attachments/assets/5641d900-c2b0-4634-bbcf-2b08ad2b547f
+
 
 | Gameplay | Hearts restore health | Game over |
 |:---:|:---:|:---:|
